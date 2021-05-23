@@ -1,0 +1,10 @@
+com/example/applicationfirst/Users.java
+ com.example.applicationfirst.Users
+com/example/applicationfirst/BuildConfig.java
+ com.example.applicationfirst.BuildConfig
+com/example/applicationfirst/Item.java
+ com.example.applicationfirst.Item
+com/example/applicationfirst/MainActivity.java
+ com.example.applicationfirst.MainActivity
+ com.example.applicationfirst.MainActivity$UserAdapter
+ com.example.applicationfirst.MainActivity$UserHolder
